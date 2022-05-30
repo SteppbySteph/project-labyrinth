@@ -5,6 +5,7 @@ import { useSelector } from "react-redux";
 
 const Home = () => {
   const gameStarted = useSelector((store) => store.game.started);
+  
 
   return (
     <>

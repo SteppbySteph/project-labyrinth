@@ -1,6 +1,7 @@
 # Project Labyrinth
 
-This week we learned:
+This project was done by Michael and Stephannie.
+We learned:
 
 - How to work with APIs together with Redux
 - How to use thunks
